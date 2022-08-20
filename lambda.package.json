@@ -1,0 +1,8 @@
+{
+  "name": "waitlist",
+  "version": "0.0.1",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.1",
+    "zod": "^3.17.3"
+  }
+}
